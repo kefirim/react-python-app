@@ -3,7 +3,7 @@
 Ce projet est une application web composée de deux parties :
 
 - **Frontend** : React (interface utilisateur)
-- **Backend** : Python (API avec Django ou Flask)
+- **Backend** : Python API avec Django
 
 ---
 
