@@ -1,4 +1,4 @@
-# 🌀 ecommerce
+# PropShop Ecommerce Website With Django + React
 
 Ce projet est une application web composée de deux parties :
 
